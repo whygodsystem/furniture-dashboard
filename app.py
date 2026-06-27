@@ -1,3 +1,4 @@
+# Version 1.0 - Basic dashboard
 import dash
 from dash import dcc, html, Input, Output, dash_table
 import plotly.express as px
